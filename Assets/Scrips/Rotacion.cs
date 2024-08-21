@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 public class Rotacion : MonoBehaviour
 {
-    public float rotationAngle = 180f; // Ángulo de rotación en grados
+    /*public float rotationAngle = 180f; // Ángulo de rotación en grados
     public float waitTime = 3f;         // Tiempo de espera en segundos
 
     private Quaternion startRotation;
@@ -48,5 +48,5 @@ public class Rotacion : MonoBehaviour
         }
 
         transform.rotation = endRotation;
-    }
+    }*/
 }
